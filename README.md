@@ -7,5 +7,6 @@ Use MySQL Workbench and saklia sample database to create a series of SQL queries
 * Select and filter table data
 * Update table data
 * Join tables
+* SUM and COUNT table data
 * Group and order table data
 * Create and modify views
